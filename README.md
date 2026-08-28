@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neural-core.png" alt="A crystalline intelligence core suspended inside a cinematic computational chamber" width="100%">
+  <img src="./neural-core.png" alt="A crystalline intelligence core suspended inside a cinematic computational chamber" width="100%">
 </p>
 
 <h1 align="center">SHASHANK THOTA</h1>
