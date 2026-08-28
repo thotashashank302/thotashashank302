@@ -1,91 +1,89 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:2F81F7,100:00C9A7&height=220&section=header&text=Shashank%20Thota&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Developer%20%7C%20Software%20Builder&descAlignY=58&animation=fadeIn)
+# Shashank Thota
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+intelligent+systems+and+useful+software;Exploring+AI+agents%2C+machine+learning+and+developer+tools;Turning+complex+ideas+into+clear+digital+experiences)](https://git.io/typing-svg)
+### AI/ML Developer · Software Builder
+
+I build trustworthy AI systems and clear digital products that turn complex ideas into useful experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thota-shashank-96878934b)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thotashashank302)
+[![Live Project](https://img.shields.io/badge/Comic_Code-Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://comic-code.vercel.app)
+[![Repositories](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thotashashank302?tab=repositories)
 
 </div>
 
-## About Me
+---
 
-I am **Shashank Thota**, an **AI/ML Developer and Software Builder** based in Hyderabad, India. I am pursuing a **B.Tech in Artificial Intelligence & Machine Learning** at Sreenidhi Institute of Science and Technology.
+## About
 
-I enjoy building machine-learning systems, AI agents and modern web products that turn complex problems into practical, understandable experiences. My current work spans risk intelligence, developer productivity and responsible health-support concepts.
+I am an AI/ML developer and B.Tech student at **Sreenidhi Institute of Science and Technology** in Hyderabad, India. My work sits at the intersection of machine learning, agentic systems, full-stack engineering and product design.
 
-- Building at the intersection of **AI, software engineering and product design**
-- Interested in **machine learning, agentic systems and developer tools**
-- Focused on creating useful products with clear interfaces and thoughtful safeguards
+I care about building software that is practical, understandable and honest about what AI can—and cannot—do.
 
-## Featured Projects
+## Selected work
 
-### Comic Code — Pull Requests Explained as Comics
+### Comic Code
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/thotashashank302/Code-Comic)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://comic-code.vercel.app)
+**Pull requests, explained as grounded four-panel comics.**
 
-Transforms selected source files from a GitHub pull request into a grounded four-panel comic that explains how the code works. The project combines a Chrome side-panel extension, a Next.js web app, read-only GitHub integration, private Supabase storage, durable background jobs and optional user-funded AI artwork.
+Comic Code turns selected source files from a GitHub pull request into a visual explanation that helps people understand how the code works. It combines a Chrome side-panel extension, a Next.js application, read-only GitHub integration, private storage and durable background jobs.
 
-`TypeScript` `Next.js` `Chrome Extension` `GitHub Apps` `Supabase` `Trigger.dev` `Cloudflare AI` `Vercel`
+`TypeScript` `Next.js` `Chrome Extension` `GitHub Apps` `Supabase` `Trigger.dev` `Cloudflare AI`
+
+**[View repository →](https://github.com/thotashashank302/Code-Comic)** · **[Open live demo →](https://comic-code.vercel.app)**
+
+---
 
 ### Delinquency Prediction Model with AI Agent
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/thotashashank302/Delinquency-Prediction-Model-With-AI-AGENT)
+**Risk intelligence for more suitable collection decisions.**
 
-An AI-powered risk-intelligence system that predicts credit-card delinquency and maps customer risk to suitable collection recommendations, ranging from continued monitoring to email or call outreach.
+An AI-powered system that predicts credit-card delinquency and maps customer risk to appropriate collection recommendations—from continued monitoring to email or call outreach.
 
 `Python` `Pandas` `scikit-learn` `Logistic Regression` `AI Agent`
 
-### New Life — Maternal Health Monitoring AI Agent
+**[View repository →](https://github.com/thotashashank302/Delinquency-Prediction-Model-With-AI-AGENT)**
 
-An exploratory AI-agent concept for monitoring health inputs from pregnant women, supporting reminders, identifying possible risk indicators and helping escalate concerns to a doctor when appropriate. It is a support concept—not a certified medical product or a replacement for professional medical care.
+---
 
-`AI Agents` `Health Monitoring` `Reminders` `Risk Alerts` `Doctor Escalation`
+### New Life
 
-## Engineering Toolkit
+**A responsible maternal-health support concept.**
 
-<div align="center">
+An exploratory AI-agent concept for monitoring health inputs from pregnant women, supporting reminders, identifying possible risk indicators and escalating concerns to a doctor. It is not a certified medical product or a replacement for professional care.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+`AI Agents` `Health Monitoring` `Risk Alerts` `Doctor Escalation`
 
-</div>
+**Status:** Concept in development
 
-## GitHub Activity
+## Engineering toolkit
 
-<div align="center">
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thotashashank302&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Shashank's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thotashashank302&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages across Shashank's public repositories" />
+## Current focus
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=thotashashank302&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true)
-
-</div>
-
-## Current Focus
-
-- Designing trustworthy AI-assisted experiences
+- Building trustworthy AI-assisted experiences
 - Strengthening full-stack and machine-learning engineering skills
-- Building projects that communicate technical ideas clearly
-- Learning through hackathons, experimentation and hands-on development
+- Exploring agentic systems and developer tools
+- Learning through hackathons and hands-on product development
+
+---
 
 <div align="center">
 
-### Let’s build something useful.
+### Build useful things. Explain them clearly. Improve them relentlessly.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thota-shashank-96878934b)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2F81F7,100:6E40C9&height=120&section=footer)
+[Connect on LinkedIn](https://www.linkedin.com/in/thota-shashank-96878934b) · [Explore my repositories](https://github.com/thotashashank302?tab=repositories)
 
 </div>
