@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1160" viewBox="0 0 800 1160" role="img" aria-labelledby="title desc">
+  <title id="title">Shashank Thota — AI systems atlas</title>
+  <desc id="desc">A mobile systems map connecting Comic Code, risk intelligence, and the New Life concept.</desc>
+  <defs>
+    <linearGradient id="bgm" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070C"/><stop offset="0.58" stop-color="#0A1020"/><stop offset="1" stop-color="#100A1E"/></linearGradient>
+    <linearGradient id="sigm" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6EE7F9"/><stop offset="0.5" stop-color="#7C8CFF"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+    <radialGradient id="corem"><stop stop-color="#E0F2FE"/><stop offset="0.25" stop-color="#7DD3FC"/><stop offset="0.6" stop-color="#6366F1"/><stop offset="1" stop-color="#17162D"/></radialGradient>
+    <pattern id="gridm" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#93C5FD" stroke-opacity="0.05"/></pattern>
+    <filter id="glowm" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>@media (prefers-reduced-motion: reduce) { .motion-only { display: none; } }</style>
+  </defs>
+  <rect width="800" height="1160" rx="24" fill="url(#bgm)"/><rect width="800" height="1160" rx="24" fill="url(#gridm)"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="400" y="74" text-anchor="middle" fill="#91A4C8" font-size="15" font-weight="650" letter-spacing="3">AI / ML · AGENTS · PRODUCT SYSTEMS</text>
+    <text x="400" y="154" text-anchor="middle" fill="#F8FAFC" font-size="68" font-weight="760" letter-spacing="-2">SHASHANK</text>
+    <text x="400" y="218" text-anchor="middle" fill="#F8FAFC" font-size="68" font-weight="760" letter-spacing="-2">THOTA</text>
+    <rect x="168" y="251" width="464" height="3" fill="url(#sigm)"/>
+    <text x="400" y="294" text-anchor="middle" fill="#C9D5EA" font-size="19">Engineering intelligence into products</text>
+    <text x="400" y="323" text-anchor="middle" fill="#C9D5EA" font-size="19">people can understand and trust.</text>
+
+    <g transform="translate(400 455)">
+      <circle r="88" fill="none" stroke="#7C8CFF" stroke-opacity="0.12"/>
+      <circle r="59" fill="none" stroke="#67E8F9" stroke-opacity="0.14"/>
+      <circle class="motion-only" r="88" fill="none" stroke="#7C8CFF" stroke-opacity="0.2" stroke-dasharray="4 9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="26s" repeatCount="indefinite"/></circle>
+      <circle class="motion-only" r="59" fill="none" stroke="#67E8F9" stroke-opacity="0.25" stroke-dasharray="23 12"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="17s" repeatCount="indefinite"/></circle>
+      <path d="M0-42L38-20V21L0 43L-38 21V-20Z" fill="url(#corem)" stroke="#C4B5FD" stroke-width="1.5" filter="url(#glowm)"/>
+      <circle r="7" fill="#E0F2FE" opacity="0.75"/>
+      <circle class="motion-only" r="7" fill="#E0F2FE" filter="url(#glowm)"><animate attributeName="r" values="6;9;6" dur="3s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <path id="flow" d="M400 548V1000" fill="none" stroke="#7C8CFF" stroke-opacity="0.35" stroke-width="2"/>
+    <g class="motion-only" fill="#E0F2FE" filter="url(#glowm)">
+      <circle r="5"><animateMotion dur="5s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion></circle>
+      <circle r="4"><animateMotion dur="5s" begin="-2.5s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion></circle>
+    </g>
+
+    <g transform="translate(74 590)">
+      <rect width="652" height="142" rx="18" fill="#0B1324" stroke="#67E8F9" stroke-opacity="0.55"/>
+      <text x="28" y="41" fill="#67E8F9" font-size="24" font-weight="750" letter-spacing="2">EXPLAIN</text>
+      <text x="28" y="83" fill="#F8FAFC" font-size="34" font-weight="720">COMIC CODE</text>
+      <text x="28" y="116" fill="#9AAED0" font-size="24">Pull request → grounded four-panel story</text>
+    </g>
+    <g transform="translate(74 758)">
+      <rect width="652" height="142" rx="18" fill="#0B1324" stroke="#818CF8" stroke-opacity="0.55"/>
+      <text x="28" y="41" fill="#A5B4FC" font-size="24" font-weight="750" letter-spacing="2">PREDICT</text>
+      <text x="28" y="83" fill="#F8FAFC" font-size="34" font-weight="720">RISK SIGNALS</text>
+      <text x="28" y="116" fill="#9AAED0" font-size="24">Customer data → recommended collection action</text>
+    </g>
+    <g transform="translate(74 926)">
+      <rect width="652" height="142" rx="18" fill="#0B1324" stroke="#C084FC" stroke-opacity="0.55"/>
+      <text x="28" y="41" fill="#D8B4FE" font-size="24" font-weight="750" letter-spacing="2">SUPPORT</text>
+      <text x="28" y="83" fill="#F8FAFC" font-size="34" font-weight="720">NEW LIFE</text>
+      <text x="28" y="116" fill="#9AAED0" font-size="24">Health signal → reminder or doctor escalation</text>
+    </g>
+    <text x="400" y="1122" text-anchor="middle" fill="#7485A6" font-size="15" font-weight="650" letter-spacing="2.5">HYDERABAD, INDIA · BUILDING IN PUBLIC</text>
+  </g>
+</svg>
