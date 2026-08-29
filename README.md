@@ -1,13 +1,13 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./github-profile-systems-atlas-final/profile-atlas-mobile.svg">
-  <img src="./github-profile-systems-atlas-final/profile-atlas.svg" alt="Shashank Thota's animated systems atlas connecting Comic Code, risk intelligence and New Life" width="100%">
+  <img src="./github-profile-systems-atlas-final/profile-atlas.svg" alt="Shashank Thota's animated Systems Atlas connecting AI products, developer tools and responsible systems" width="100%">
 </picture>
 
 <h1 align="center">Shashank Thota</h1>
 
 <p align="center">
-  <strong>AI/ML developer and software builder in Hyderabad, India.</strong><br>
-  I turn difficult systems into products people can understand and trust.
+  <strong>AI/ML developer building agentic products and developer tools.</strong><br>
+  Hyderabad, India · Turning difficult systems into experiences people can understand and trust.
 </p>
 
 <p align="center">
@@ -20,49 +20,66 @@
 
 ---
 
-## Comic Code — explaining software visually
+### `> whoami`
 
-Pull requests are precise, but rarely approachable. **Comic Code** turns selected source files into a grounded four-panel story that explains how the code works—without treating the code as decoration.
+```text
+I build AI systems where the model, interface and explanation work as one.
+Current signal: agentic products · applied ML · developer experience
+Operating principle: build useful things, then explain them clearly.
+```
 
-It combines a Chrome side-panel extension, a Next.js application, read-only GitHub integration, private Supabase storage, durable background jobs and optional AI artwork.
+## Selected systems
 
-`TypeScript` · `Next.js` · `Chrome Extension` · `GitHub Apps` · `Supabase` · `Trigger.dev` · `Cloudflare AI`
+### Comic Code — pull requests become visual stories
+
+**Comic Code** turns selected source files into a grounded four-panel explanation of how the code works. It connects a Chrome side panel, a Next.js product, read-only GitHub integration, private storage and durable background jobs.
+
+`TypeScript` · `Next.js` · `Chrome Extension` · `GitHub Apps` · `Supabase` · `Trigger.dev`
 
 **[Open the live product →](https://comic-code.vercel.app)** &nbsp;&nbsp; **[Read the source →](https://github.com/thotashashank302/Code-Comic)**
 
----
+### Delinquency intelligence — prediction with a next action
 
-## Delinquency intelligence — predicting risk responsibly
+An AI-powered system that predicts credit-card delinquency, assigns a risk band and lets an operator approve an email reminder for moderate-risk customers.
 
-An AI-powered system that predicts credit-card delinquency, then maps customer risk to an appropriate collection recommendation—from continued monitoring to email or call outreach.
-
-The model is only half the product. The agent turns its output into a next action that a person can review and understand.
-
-`Python` · `Pandas` · `scikit-learn` · `Logistic Regression` · `AI Agent`
+`Python` · `Pandas` · `scikit-learn` · `Random Forest` · `AI Agent`
 
 **[Explore the model and agent →](https://github.com/thotashashank302/Delinquency-Prediction-Model-With-AI-AGENT)**
 
+<details>
+<summary><strong>New Life — concept in development</strong></summary>
+<br>
+
+An exploratory AI-agent concept for maternal-health awareness: supporting reminders, identifying possible risk indicators and helping escalate concerns to a doctor.
+
+It is not a certified medical product or a replacement for professional medical care.
+</details>
+
 ---
 
-## New Life — supporting maternal-health awareness
-
-An exploratory AI-agent concept for monitoring health inputs from pregnant women, supporting reminders, identifying possible risk indicators and helping escalate concerns to a doctor.
-
-**Status:** concept in development. It is not a certified medical product or a replacement for professional medical care.
-
-`AI agents` · `health monitoring` · `reminders` · `risk alerts` · `doctor escalation`
-
----
-
-## How I work
-
-- **Start with the real problem.** Technology earns its place by making the outcome clearer or more useful.
-- **Design the explanation with the system.** Interfaces, models and infrastructure should tell the same story.
-- **Build with safeguards.** Privacy, uncertainty and responsible boundaries belong in the product—not in the footnotes.
-- **Learn by shipping.** Hackathons and hands-on experiments turn ideas into evidence.
+## Mission telemetry
 
 <p align="center">
-  <br>
+  <img src="./assets/mission-telemetry.svg" alt="Shashank's repository, contribution and language telemetry generated from public GitHub data" width="100%">
+</p>
+
+<p align="center"><sub>Generated from public GitHub data and refreshed automatically.</sub></p>
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thotashashank302/thotashashank302/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thotashashank302/thotashashank302/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake travelling through Shashank's GitHub contribution grid" src="https://raw.githubusercontent.com/thotashashank302/thotashashank302/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<p align="center">
+  <sub>The grid is generated from my real contribution history and updates every day.</sub>
+</p>
+
+---
+
+<p align="center">
   <strong>BUILD USEFUL THINGS. EXPLAIN THEM CLEARLY.</strong><br>
   <sub>AI systems · Agentic products · Developer tools</sub>
 </p>
