@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png">
-    <img src="assets/banner.gif" alt="Shashank Thota — AI/ML Developer building agentic products, applied machine learning, and developer tools" width="100%">
-  </picture>
+  <img src="assets/banner.gif" alt="Shashank Thota — AI/ML Developer building agentic products, applied machine learning, and developer tools" width="100%">
 </p>
 
 <p align="center">
