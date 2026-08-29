@@ -22,11 +22,11 @@
 
 ### `> whoami`
 
-```text
-I build AI systems where the model, interface and explanation work as one.
-Current signal: agentic products · applied ML · developer experience
-Operating principle: build useful things, then explain them clearly.
-```
+> I build AI systems where the model, interface and explanation work as one.
+>
+> **Current signal:** agentic products · applied ML · developer experience
+>
+> **Operating principle:** build useful things, then explain them clearly.
 
 ## Selected systems
 
