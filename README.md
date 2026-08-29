@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Shashank Thota — AI/ML Developer building agentic products, applied machine learning, and developer tools" width="100%">
+  <img src="assets/banner.webp" alt="Shashank Thota — AI/ML Developer building agentic products, applied machine learning, and developer tools" width="100%">
 </p>
 
 <p align="center">
@@ -9,7 +9,9 @@
 
 <br>
 
-## Tech Arsenal
+<p align="center">
+  <img src="assets/section-tech-arsenal.svg" alt="Tech Arsenal" width="100%">
+</p>
 
 #### Languages
 
@@ -48,7 +50,9 @@
 
 <br>
 
-## Selected Projects
+<p align="center">
+  <img src="assets/section-selected-projects.svg" alt="Selected Projects" width="100%">
+</p>
 
 ### [Comic Code](https://github.com/thotashashank302/Code-Comic)
 

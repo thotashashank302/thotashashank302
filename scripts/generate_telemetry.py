@@ -259,7 +259,10 @@ def build_svg(owned_repos, year_signals, stars, month_labels, month_values, lang
 
   <g font-family="Arial, sans-serif">
     <text x="{panel_x+40}" y="{panel_y+50}" font-size="14" font-weight="700" letter-spacing="2" fill="#7c9cff">LIVE MISSION TELEMETRY</text>
-    <circle cx="{panel_x+panel_w-140}" cy="{panel_y+46}" r="5" fill="#22d3ee"/>
+    <circle cx="{panel_x+panel_w-140}" cy="{panel_y+46}" r="5" fill="#22d3ee">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5;7;5" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
     <text x="{panel_x+panel_w-40}" y="{panel_y+51}" text-anchor="end" font-size="13" letter-spacing="2" fill="#64748b">SYNCED</text>
 
     <text x="{panel_x+40}" y="{panel_y+140}" font-size="60" font-weight="800" fill="#ffffff">{owned_repos}</text>

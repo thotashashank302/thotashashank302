@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+  <title id="title">Selected Projects</title>
+  <desc id="desc">Animated navy, blue, and violet section heading.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#38bdf8"/>
+      <stop offset="0.7" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="reveal">
+      <rect x="34" y="23" width="0" height="56">
+        <animate attributeName="width" from="0" to="455" dur="1.35s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="112" rx="18" fill="#070d1b"/>
+  <circle cx="1125" cy="34" r="58" fill="#7c3aed" opacity="0.08"/>
+  <text x="36" y="67" clip-path="url(#reveal)" fill="#f8fafc" font-family="Arial, sans-serif" font-size="36" font-weight="800" letter-spacing="3">SELECTED PROJECTS</text>
+  <line x1="36" y1="91" x2="1164" y2="91" stroke="#1e293b"/>
+  <rect x="36" y="89" width="210" height="4" rx="2" fill="url(#accent)">
+    <animate attributeName="x" values="36;954;36" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.16 1 0.3 1;0.16 1 0.3 1"/>
+  </rect>
+</svg>
