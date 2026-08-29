@@ -28,9 +28,20 @@
 >
 > **Operating principle:** build useful things, then explain them clearly.
 
+## Skills console
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/skills-console-mobile.svg">
+  <img src="./assets/skills-console.svg" alt="Non-interactive glass skill controls for Python, TypeScript, Next.js, React, AI agents, data science, Supabase, GitHub Apps, Chrome extensions, Git, Vercel and product systems" width="100%">
+</picture>
+
+<p align="center"><sub>Capability labels only — intentionally not linked.</sub></p>
+
 ## Selected systems
 
-### Comic Code — pull requests become visual stories
+<p align="center">
+  <img src="./assets/project-comic-code.svg" alt="Comic Code — pull requests become grounded visual stories" width="100%">
+</p>
 
 **Comic Code** turns selected source files into a grounded four-panel explanation of how the code works. It connects a Chrome side panel, a Next.js product, read-only GitHub integration, private storage and durable background jobs.
 
@@ -38,7 +49,9 @@
 
 **[Open the live product →](https://comic-code.vercel.app)** &nbsp;&nbsp; **[Read the source →](https://github.com/thotashashank302/Code-Comic)**
 
-### Delinquency intelligence — prediction with a next action
+<p align="center">
+  <img src="./assets/project-delinquency.svg" alt="Delinquency intelligence — prediction, risk bands and operator-approved action" width="100%">
+</p>
 
 An AI-powered system that predicts credit-card delinquency, assigns a risk band and lets an operator approve an email reminder for moderate-risk customers.
 
@@ -46,8 +59,12 @@ An AI-powered system that predicts credit-card delinquency, assigns a risk band 
 
 **[Explore the model and agent →](https://github.com/thotashashank302/Delinquency-Prediction-Model-With-AI-AGENT)**
 
+<p align="center">
+  <img src="./assets/project-new-life.svg" alt="New Life — maternal-health awareness concept in development" width="100%">
+</p>
+
 <details>
-<summary><strong>New Life — concept in development</strong></summary>
+<summary><strong>Read the concept boundary</strong></summary>
 <br>
 
 An exploratory AI-agent concept for maternal-health awareness: supporting reminders, identifying possible risk indicators and helping escalate concerns to a doctor.
