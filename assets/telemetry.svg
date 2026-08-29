@@ -1,0 +1,79 @@
+<svg width="1600" height="760" viewBox="0 0 1600 760" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGradient" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="bgGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="760" fill="#05070d"/>
+
+  <g font-family="Arial, sans-serif">
+    <text x="44" y="52" font-size="34" font-weight="800" fill="#f8fafc">Mission telemetry</text>
+    <line x1="44" y1="76" x2="1556" y2="76" stroke="#1e293b" stroke-width="1"/>
+  </g>
+
+  <rect x="40" y="100" width="1520" height="580" rx="18" fill="url(#bgGlow)" stroke="#1e293b" stroke-width="1"/>
+  <clipPath id="panelClip"><rect x="40" y="100" width="1520" height="580" rx="18"/></clipPath>
+  <g clip-path="url(#panelClip)">
+    <line x1="40" y1="100" x2="40" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="80" y1="100" x2="80" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="120" y1="100" x2="120" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="160" y1="100" x2="160" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="200" y1="100" x2="200" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="240" y1="100" x2="240" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="280" y1="100" x2="280" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="320" y1="100" x2="320" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="360" y1="100" x2="360" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="400" y1="100" x2="400" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="440" y1="100" x2="440" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="480" y1="100" x2="480" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="520" y1="100" x2="520" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="560" y1="100" x2="560" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="600" y1="100" x2="600" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="640" y1="100" x2="640" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="680" y1="100" x2="680" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="720" y1="100" x2="720" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="760" y1="100" x2="760" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="800" y1="100" x2="800" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="840" y1="100" x2="840" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="880" y1="100" x2="880" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="920" y1="100" x2="920" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="960" y1="100" x2="960" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1000" y1="100" x2="1000" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1040" y1="100" x2="1040" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1080" y1="100" x2="1080" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1120" y1="100" x2="1120" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1160" y1="100" x2="1160" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1200" y1="100" x2="1200" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1240" y1="100" x2="1240" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1280" y1="100" x2="1280" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1320" y1="100" x2="1320" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1360" y1="100" x2="1360" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1400" y1="100" x2="1400" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1440" y1="100" x2="1440" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1480" y1="100" x2="1480" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="1520" y1="100" x2="1520" y2="680" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="100" x2="1560" y2="100" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="140" x2="1560" y2="140" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="180" x2="1560" y2="180" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="220" x2="1560" y2="220" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="260" x2="1560" y2="260" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="300" x2="1560" y2="300" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="340" x2="1560" y2="340" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="380" x2="1560" y2="380" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="420" x2="1560" y2="420" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="460" x2="1560" y2="460" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="500" x2="1560" y2="500" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="540" x2="1560" y2="540" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="580" x2="1560" y2="580" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="620" x2="1560" y2="620" stroke="#141c2e" stroke-width="1"/><line x1="40" y1="660" x2="1560" y2="660" stroke="#141c2e" stroke-width="1"/>
+  </g>
+
+  <g font-family="Arial, sans-serif">
+    <text x="80" y="150" font-size="14" font-weight="700" letter-spacing="2" fill="#7c9cff">LIVE MISSION TELEMETRY</text>
+    <circle cx="1420" cy="146" r="5" fill="#22d3ee"/>
+    <text x="1520" y="151" text-anchor="end" font-size="13" letter-spacing="2" fill="#64748b">SYNCED</text>
+
+    <text x="80" y="240" font-size="60" font-weight="800" fill="#ffffff">4</text>
+    <text x="80" y="270" font-size="14" letter-spacing="2" fill="#94a3b8">OWNED REPOS</text>
+
+    <text x="340" y="240" font-size="60" font-weight="800" fill="#ffffff">62</text>
+    <text x="340" y="270" font-size="14" letter-spacing="2" fill="#94a3b8">YEAR SIGNALS</text>
+
+    <text x="630" y="240" font-size="60" font-weight="800" fill="#ffffff">2</text>
+    <text x="630" y="270" font-size="14" letter-spacing="2" fill="#94a3b8">STARS EARNED</text>
+
+    <text x="80" y="340" font-size="28" font-weight="800" fill="#f1f5f9">Contribution trajectory</text>
+    <text x="80" y="368" font-size="14" letter-spacing="2" fill="#64748b">LAST 12 MONTHS</text>
+
+    <rect x="142.2" y="494.0" width="34" height="6.0" rx="8" fill="url(#barGradient)" opacity="0.35"/><rect x="220.5" y="490.0" width="34" height="10.0" rx="8" fill="url(#barGradient)" opacity="1.0"/><rect x="298.8" y="494.0" width="34" height="6.0" rx="8" fill="url(#barGradient)" opacity="0.35"/><rect x="377.2" y="494.0" width="34" height="6.0" rx="8" fill="url(#barGradient)" opacity="0.35"/><rect x="455.5" y="494.0" width="34" height="6.0" rx="8" fill="url(#barGradient)" opacity="0.35"/><rect x="533.8" y="494.0" width="34" height="6.0" rx="8" fill="url(#barGradient)" opacity="0.35"/><rect x="612.2" y="494.0" width="34" height="6.0" rx="8" fill="url(#barGradient)" opacity="0.35"/><rect x="690.5" y="494.0" width="34" height="6.0" rx="8" fill="url(#barGradient)" opacity="0.35"/><rect x="768.8" y="494.0" width="34" height="6.0" rx="8" fill="url(#barGradient)" opacity="0.35"/><rect x="847.2" y="490.0" width="34" height="10.0" rx="8" fill="url(#barGradient)" opacity="1.0"/><rect x="925.5" y="340.0" width="34" height="160.0" rx="8" fill="url(#barGradient)" opacity="1.0"/><rect x="1003.8" y="400.5" width="34" height="99.5" rx="8" fill="url(#barGradient)" opacity="1.0"/>
+    <text x="159.2" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">SEP</text><text x="237.5" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">OCT</text><text x="315.8" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">NOV</text><text x="394.2" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">DEC</text><text x="472.5" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">JAN</text><text x="550.8" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">FEB</text><text x="629.2" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">MAR</text><text x="707.5" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">APR</text><text x="785.8" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">MAY</text><text x="864.2" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">JUN</text><text x="942.5" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">JUL</text><text x="1020.8" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#64748b">AUG</text>
+
+    <line x1="1100" y1="160" x2="1100" y2="620" stroke="#1e293b" stroke-width="1"/>
+
+    <text x="1140" y="240" font-size="28" font-weight="800" fill="#f1f5f9">Language signal</text>
+    <text x="1140" y="268" font-size="14" letter-spacing="2" fill="#64748b">BY PUBLIC CODE VOLUME</text>
+
+    <rect x="1140.0" y="300" width="316.0" height="14" rx="7.0" fill="#3b82f6"/><rect x="1460.0" y="300" width="36.0" height="14" rx="7.0" fill="#8b5cf6"/><rect x="1500.0" y="300" width="32.0" height="14" rx="7.0" fill="#38bdf8"/><rect x="1536.0" y="300" width="8.0" height="14" rx="7.0" fill="#94a3b8"/><rect x="1548.0" y="300" width="4.0" height="14" rx="7.0" fill="#eab308"/>
+    
+          <circle cx="1148" cy="354" r="6" fill="#3b82f6"/>
+          <text x="1168" y="360" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">TypeScript</text>
+          <text x="1540" y="360" text-anchor="end" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#94a3b8">79%</text>
+        
+          <circle cx="1148" cy="398" r="6" fill="#8b5cf6"/>
+          <text x="1168" y="404" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">CSS</text>
+          <text x="1540" y="404" text-anchor="end" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#94a3b8">9%</text>
+        
+          <circle cx="1148" cy="442" r="6" fill="#38bdf8"/>
+          <text x="1168" y="448" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">Python</text>
+          <text x="1540" y="448" text-anchor="end" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#94a3b8">8%</text>
+        
+          <circle cx="1148" cy="486" r="6" fill="#94a3b8"/>
+          <text x="1168" y="492" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">PLpgSQL</text>
+          <text x="1540" y="492" text-anchor="end" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#94a3b8">2%</text>
+        
+          <circle cx="1148" cy="530" r="6" fill="#eab308"/>
+          <text x="1168" y="536" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">JavaScript</text>
+          <text x="1540" y="536" text-anchor="end" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#94a3b8">1%</text>
+        
+
+    <text x="80" y="650" font-size="13" letter-spacing="1" fill="#475569">PUBLIC GITHUB DATA · UPDATED 2026-08-29</text>
+    <text x="1520" y="650" text-anchor="end" font-size="13" letter-spacing="1" fill="#475569">OWNED ASSET · NO LIVE CARD SERVICE</text>
+  </g>
+
+  <text x="800.0" y="730" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#94a3b8">Generated from public GitHub data and refreshed automatically.</text>
+</svg>
