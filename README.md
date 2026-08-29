@@ -1,16 +1,9 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./github-profile-systems-atlas-final/profile-atlas-mobile.svg">
-  <img src="./github-profile-systems-atlas-final/profile-atlas.svg" alt="Shashank Thota's animated Systems Atlas connecting AI products, developer tools and responsible systems" width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-cherry-poster.png">
+  <img src="./assets/profile-hero-cherry.gif" alt="Shashank Thota — AI/ML developer building agentic products and developer tools." width="100%">
 </picture>
 
-<h1 align="center">Shashank Thota</h1>
-
-<p align="center">
-  <strong>AI/ML developer building agentic products and developer tools.</strong><br>
-  Hyderabad, India · Turning difficult systems into experiences people can understand and trust.
-</p>
-
-<p align="center">
+<p align="center">Shashank Thota
   <a href="https://comic-code.vercel.app"><strong>Launch Comic Code</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/thotashashank302?tab=repositories">Explore the work</a>
@@ -40,7 +33,7 @@
 ## Selected systems
 
 <p align="center">
-  <img src="./assets/project-comic-code.svg" alt="Comic Code — pull requests become grounded visual stories" width="100%">
+  <img src="./assets/project-comic-code-minimal.svg" alt="Comic Code — code explained as a visual story" width="100%">
 </p>
 
 **Comic Code** turns selected source files into a grounded four-panel explanation of how the code works. It connects a Chrome side panel, a Next.js product, read-only GitHub integration, private storage and durable background jobs.
@@ -50,7 +43,7 @@
 **[Open the live product →](https://comic-code.vercel.app)** &nbsp;&nbsp; **[Read the source →](https://github.com/thotashashank302/Code-Comic)**
 
 <p align="center">
-  <img src="./assets/project-delinquency.svg" alt="Delinquency intelligence — prediction, risk bands and operator-approved action" width="100%">
+  <img src="./assets/project-delinquency-minimal.svg" alt="Delinquency Intelligence — prediction with human-reviewed action" width="100%">
 </p>
 
 An AI-powered system that predicts credit-card delinquency, assigns a risk band and lets an operator approve an email reminder for moderate-risk customers.
@@ -60,7 +53,7 @@ An AI-powered system that predicts credit-card delinquency, assigns a risk band 
 **[Explore the model and agent →](https://github.com/thotashashank302/Delinquency-Prediction-Model-With-AI-AGENT)**
 
 <p align="center">
-  <img src="./assets/project-new-life.svg" alt="New Life — maternal-health awareness concept in development" width="100%">
+  <img src="./assets/project-new-life-minimal.svg" alt="New Life — maternal-health awareness concept" width="100%">
 </p>
 
 <details>
