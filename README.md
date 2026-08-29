@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Dark neural-network banner for Shashank Thota" width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png">
+    <img src="assets/banner.gif" alt="Shashank Thota — AI/ML Developer building agentic products, applied machine learning, and developer tools" width="100%">
+  </picture>
 </p>
 
 <p align="center">
