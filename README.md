@@ -1,95 +1,93 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-cherry-poster.png">
-  <img src="./assets/profile-hero-cherry.gif" alt="Shashank Thota — AI/ML developer building agentic products and developer tools." width="100%">
-</picture>
-
-<p align="center">Shashank Thota
-  <a href="https://comic-code.vercel.app"><strong>Launch Comic Code</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/thotashashank302?tab=repositories">Explore the work</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/thota-shashank-96878934b">LinkedIn</a>
+<p align="center">
+  <img src="assets/banner.png" alt="Dark neural-network banner for Shashank Thota" width="100%">
 </p>
-
----
-
-### `> whoami`
-
-> I build AI systems where the model, interface and explanation work as one.
->
-> **Current signal:** agentic products · applied ML · developer experience
->
-> **Operating principle:** build useful things, then explain them clearly.
-
-## Skills console
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/skills-console-mobile.svg">
-  <img src="./assets/skills-console.svg" alt="Non-interactive glass skill controls for Python, TypeScript, Next.js, React, AI agents, data science, Supabase, GitHub Apps, Chrome extensions, Git, Vercel and product systems" width="100%">
-</picture>
-
-<p align="center"><sub>Capability labels only — intentionally not linked.</sub></p>
-
-## Selected systems
 
 <p align="center">
-  <img src="./assets/project-comic-code-minimal.svg" alt="Comic Code — code explained as a visual story" width="100%">
+  <strong>I build AI systems where the model, interface, and explanation move as one.</strong><br>
+  <sub>Agentic products · applied machine learning · developer tools</sub>
 </p>
 
-**Comic Code** turns selected source files into a grounded four-panel explanation of how the code works. It connects a Chrome side panel, a Next.js product, read-only GitHub integration, private storage and durable background jobs.
+<br>
+
+## Tech Arsenal
+
+#### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0B1120?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=818CF8" alt="TypeScript">
+</p>
+
+#### ML / AI
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="Pandas">
+  <img src="https://img.shields.io/badge/AI_Agents-0B1120?style=for-the-badge&logo=openai&logoColor=818CF8" alt="AI Agents">
+</p>
+
+#### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0B1120?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-0B1120?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React">
+  <img src="https://img.shields.io/badge/Supabase-0B1120?style=for-the-badge&logo=supabase&logoColor=38BDF8" alt="Supabase">
+  <img src="https://img.shields.io/badge/GitHub_Apps-0B1120?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub Apps">
+  <img src="https://img.shields.io/badge/Chrome_Extensions-0B1120?style=for-the-badge&logo=googlechrome&logoColor=818CF8" alt="Chrome Extensions">
+  <img src="https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git">
+  <img src="https://img.shields.io/badge/Vercel-0B1120?style=for-the-badge&logo=vercel&logoColor=F8FAFC" alt="Vercel">
+</p>
+
+#### Competitive Programming
+
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-0B1120?style=for-the-badge&logo=leetcode&logoColor=38BDF8" alt="LeetCode">
+  <img src="https://img.shields.io/badge/CodeChef-0B1120?style=for-the-badge&logo=codechef&logoColor=A78BFA" alt="CodeChef">
+  <img src="https://img.shields.io/badge/Codeforces-0B1120?style=for-the-badge&logo=codeforces&logoColor=818CF8" alt="Codeforces">
+</p>
+
+<br>
+
+## Selected Projects
+
+### [Comic Code](https://github.com/thotashashank302/Code-Comic)
+
+Turns selected source files into a grounded four-panel visual explanation, connecting a Chrome side panel, a Next.js product, read-only GitHub integration, private storage, and durable background jobs.
 
 `TypeScript` · `Next.js` · `Chrome Extension` · `GitHub Apps` · `Supabase` · `Trigger.dev`
 
-**[Open the live product →](https://comic-code.vercel.app)** &nbsp;&nbsp; **[Read the source →](https://github.com/thotashashank302/Code-Comic)**
+### [Delinquency Prediction Model with AI Agent](https://github.com/thotashashank302/Delinquency-Prediction-Model-With-AI-AGENT)
 
-<p align="center">
-  <img src="./assets/project-delinquency-minimal.svg" alt="Delinquency Intelligence — prediction with human-reviewed action" width="100%">
-</p>
-
-An AI-powered system that predicts credit-card delinquency, assigns a risk band and lets an operator approve an email reminder for moderate-risk customers.
+Predicts credit-card delinquency, assigns a risk band, and supports human-reviewed outreach for moderate-risk customers.
 
 `Python` · `Pandas` · `scikit-learn` · `Random Forest` · `AI Agent`
 
-**[Explore the model and agent →](https://github.com/thotashashank302/Delinquency-Prediction-Model-With-AI-AGENT)**
+### New Life
 
-<p align="center">
-  <img src="./assets/project-new-life-minimal.svg" alt="New Life — maternal-health awareness concept" width="100%">
-</p>
+An exploratory AI-agent concept for maternal-health awareness: supporting reminders, identifying possible risk indicators, and helping escalate concerns to a doctor.
 
-<details>
-<summary><strong>Read the concept boundary</strong></summary>
+<sub>Concept only—not a certified medical product or a replacement for professional medical care.</sub>
+
 <br>
 
-An exploratory AI-agent concept for maternal-health awareness: supporting reminders, identifying possible risk indicators and helping escalate concerns to a doctor.
+## Mission Telemetry
 
-It is not a certified medical product or a replacement for professional medical care.
-</details>
+![Mission Telemetry](assets/telemetry.svg)
 
----
+<br>
 
-## Mission telemetry
-
-<p align="center">
-  <img src="./assets/mission-telemetry.svg" alt="Shashank's repository, contribution and language telemetry generated from public GitHub data" width="100%">
-</p>
-
-<p align="center"><sub>Generated from public GitHub data and refreshed automatically.</sub></p>
-
-## Contribution snake
+## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thotashashank302/thotashashank302/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thotashashank302/thotashashank302/output/github-contribution-grid-snake.svg">
-  <img alt="Animated snake travelling through Shashank's GitHub contribution grid" src="https://raw.githubusercontent.com/thotashashank302/thotashashank302/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
+  <img alt="Contribution snake" src="assets/snake-dark.svg" width="100%">
 </picture>
 
-<p align="center">
-  <sub>The grid is generated from my real contribution history and updates every day.</sub>
-</p>
+<br>
 
 ---
 
 <p align="center">
-  <strong>BUILD USEFUL THINGS. EXPLAIN THEM CLEARLY.</strong><br>
-  <sub>AI systems · Agentic products · Developer tools</sub>
+  <strong>BUILD USEFUL THINGS. EXPLAIN THEM CLEARLY.</strong>
 </p>

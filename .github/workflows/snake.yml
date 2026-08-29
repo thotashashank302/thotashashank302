@@ -1,0 +1,31 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # refresh every 6 hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake-dark.svg?color_snake=%2338bdf8&color_dots=%230b1120,%23162032,%233b82f6,%236366f1,%23a78bfa
+            assets/snake-light.svg?color_snake=%236366f1
+
+      - name: Push generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update contribution snake'
+          file_pattern: 'assets/snake*.svg'
