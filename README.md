@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./profile-atlas-mobile.svg">
-  <img src="./profile-atlas.svg" alt="Shashank Thota's animated systems atlas connecting Comic Code, risk intelligence and New Life" width="100%">
+  <source media="(max-width: 600px)" srcset="./github-profile-systems-atlas-final/profile-atlas-mobile.svg">
+  <img src="./github-profile-systems-atlas-final/profile-atlas.svg" alt="Shashank Thota's animated systems atlas connecting Comic Code, risk intelligence and New Life" width="100%">
 </picture>
 
 <h1 align="center">Shashank Thota</h1>
