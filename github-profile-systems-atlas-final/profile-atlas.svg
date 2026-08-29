@@ -26,7 +26,8 @@
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
-      @media (prefers-reduced-motion: reduce) { .motion-only { display: none; } }
+      .static-role { opacity: 0; }
+      @media (prefers-reduced-motion: reduce) { .motion-only { display: none; } .static-role { opacity: 1; } }
     </style>
   </defs>
 
@@ -40,8 +41,14 @@
     <text x="62" y="163" fill="#F8FAFC" font-size="64" font-weight="760" letter-spacing="-2">SHASHANK</text>
     <text x="62" y="224" fill="#F8FAFC" font-size="64" font-weight="760" letter-spacing="-2">THOTA</text>
     <rect x="65" y="252" width="390" height="2" fill="url(#signal)"/>
-    <text x="66" y="291" fill="#C9D5EA" font-size="18" font-weight="520">Engineering intelligence into products</text>
-    <text x="66" y="319" fill="#C9D5EA" font-size="18" font-weight="520">people can understand and trust.</text>
+    <text class="static-role" x="66" y="291" fill="#7185AA" font-size="16" font-weight="650" letter-spacing="1.1">AI/ML DEVELOPER · SOFTWARE BUILDER</text>
+    <g class="motion-only" font-size="18" font-weight="650">
+      <text x="66" y="291" fill="#67E8F9" opacity="0">AI/ML DEVELOPER<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.27;0.32;1" dur="12s" repeatCount="indefinite"/></text>
+      <text x="66" y="291" fill="#A5B4FC" opacity="0">AGENTIC PRODUCT BUILDER<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32;0.36;0.60;0.65;1" dur="12s" repeatCount="indefinite"/></text>
+      <text x="66" y="291" fill="#D8B4FE" opacity="0">DEVELOPER TOOLS<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.65;0.69;0.94;1" dur="12s" repeatCount="indefinite"/></text>
+      <rect x="66" y="301" width="10" height="2" fill="#E0F2FE"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="66" y="326" fill="#C9D5EA" font-size="17" font-weight="520">Engineering intelligence into products people can trust.</text>
     <text x="66" y="377" fill="#7485A6" font-size="12" font-weight="650" letter-spacing="2.2">HYDERABAD, INDIA</text>
     <text x="66" y="401" fill="#7485A6" font-size="12" font-weight="650" letter-spacing="2.2">BUILDING IN PUBLIC</text>
 
@@ -58,6 +65,10 @@
       <circle r="6" fill="#E0F2FE" opacity="0.75"/>
       <circle class="motion-only" r="6" fill="#E0F2FE" filter="url(#glow)">
         <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <circle class="motion-only" r="98" fill="none" stroke="#67E8F9" stroke-opacity="0">
+        <animate attributeName="r" values="62;112" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.22;0" dur="3s" repeatCount="indefinite"/>
       </circle>
       <text x="0" y="101" text-anchor="middle" fill="#AFC3E8" font-size="10" font-weight="700" letter-spacing="2">SYSTEM CORE</text>
     </g>
