@@ -1,0 +1,58 @@
+name: Refresh profile motion
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-motion.yml"
+      - "scripts/render-profile-metrics.mjs"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-motion
+  cancel-in-progress: true
+
+jobs:
+  telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Render owned profile telemetry
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: node scripts/render-profile-metrics.mjs
+
+      - name: Commit telemetry changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/mission-telemetry.svg
+          git diff --cached --quiet || git commit -m "Refresh profile telemetry"
+          git push
+
+  contribution-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution snakes
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%236366F1&color_dots=%23E5E7EB,%2367E8F9,%23818CF8,%23A78BFA,%23C084FC
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2367E8F9&color_dots=%23111827,%23164059,%232E6B8A,%236366F1,%23C084FC
+
+      - name: Publish snakes to the output branch
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
+        with:
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
