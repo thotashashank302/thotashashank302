@@ -68,10 +68,3 @@ An exploratory concept for maternal-health awareness: reminders, possible risk i
 ## `$ ssh connect`
 
 [Find me on GitHub →](https://github.com/thotashashank302)
-
----
-
-<p align="center">
-  <code>BUILD USEFUL THINGS. EXPLAIN THEM CLEARLY.</code><br>
-  <sub>Adapted from <a href="https://www.gitskins.com/templates/community-green-screen-rl3j">Green Screen</a> by GitSkins · personalized identity panel and repository-owned activity cards</sub>
-</p>
