@@ -24,9 +24,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests
-
       - name: Generate telemetry SVG
         env:
           GH_TOKEN: ${{ secrets.TELEMETRY_TOKEN }}
